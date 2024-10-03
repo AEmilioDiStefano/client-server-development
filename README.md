@@ -37,7 +37,9 @@ mongosh
 
 
 
-### **4)** Make sure that your connection variables (labeled toward the top of the CRUD.py document) are correct including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
+### **4)** Set your connection variables
+
+Make sure that your connection variables (labeled toward the top of the CRUD.py document) are correct including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
 
 If you are unsure of the appropriate hostname and port to use,
 this information will appear after you have opened the mongosh shell,
@@ -50,13 +52,16 @@ you will get an error.
 
 
 
-### **5)** 
+### **5)** Implement your commands
+
 Create a new document or notebook and import AnimalShelter as shown 
 below:
 
 ```python
 from CRUD import AnimalShelter
 ```
+
+Follow this with the comands which you would like to use to perform CRUD operations on your database.  For specification on how to perform these operations, see the **Usage** section below.
 
 
 # Installation

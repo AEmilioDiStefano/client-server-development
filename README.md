@@ -150,6 +150,24 @@ And let's use our read() function to confirm the changes:
 
 Success!  Smaug has been changed from a Fire Drake to a Cold Drake (may Tolkien forgive us).
 
-**In order to use our delete() function**, let's delete one of our drasgons from our database with the following code:
+**In order to use our delete() function**, let's delete Smaug from our database with the following code:
 
+![host-and-port](images/13-delete-smaug.png)
 
+Now let's make sure that our deletion was successful. 
+
+![host-and-port](images/14-smaug-deleted.png)
+
+Success! 
+
+Now, since dragons do not exist in the real world, let's delete all of the dragons from our database with the code below:
+
+![host-and-port](images/15-delete-all-dragons.png)
+
+And let's check to make sure that our deletions were successful:
+
+![host-and-port](images/16-all-dragons-deleted.png)
+
+All dragons have been deleted so that we can focus on finding the best canine candidates for search-and-rescue training! 
+
+## Common Problems and Solutions

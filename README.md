@@ -6,25 +6,23 @@ software package facilitates the CRUD (create, read, update, delete)
 functionality built-in to MongoDB through simple queries which allow 
 users to easily navigate and manipulate MongoDB databases. 
 
-# Motivation
+## Motivation
 
 International rescue-aniimal training company Grazioso Salvare has 
 asked us to develop  this middleware package to help them navigate 
 the databases of their non-prpfit partners for the best possible 
 canine candidates for search-and-rescue training. 
 
-# Getting Started 
+## Getting Started 
 
 ### **1)** Import your database file 
 
 Import your data file into MongoDB (if it has not already been imported).  
 
 
-
 ### **2)** Add the CRUD.py file 
 
 Add the CRUD.py file to your directory of choice.  
-
 
 
 ### **3)** Open the MongoDB shell
@@ -34,8 +32,6 @@ Open mongosh by entering the mongosh command into your terminal as depicted belo
 ```bash
 mongosh
 ```
-
-
 
 ### **4)** Set your connection variables
 
@@ -51,7 +47,6 @@ If this information does not match what is in your CRUD.py file,
 you will get an error.  
 
 
-
 ### **5)** Implement your commands
 
 Create a new document or notebook and import AnimalShelter as shown 
@@ -64,7 +59,7 @@ from CRUD import AnimalShelter
 Follow this with the comands which you would like to use to perform CRUD operations on your database.  For specification on how to perform these operations, see the **Usage** section below.
 
 
-# Installation
+## Installation
 
 Install the latest versions of **Python** and **MongoDB**.
 
@@ -95,7 +90,7 @@ https://www.python.org/downloads/
 https://www.python.org/downloads/macos/ 
 
 
-# Usage
+## Usage
 
 
 

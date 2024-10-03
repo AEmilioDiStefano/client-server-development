@@ -118,7 +118,7 @@ The code snippet below shows the delete() function:
 
 ![host-and-port](images/6-delete-function.png)
 
-The code in the delete() function uses the same logic as does the update() function to confirm the number of returned files in otder to determine whether the delete_one() or delete_many() methods should be used to delete files.  The number of files which were deleted is then printed to the screen.
+The code in the delete() function uses the same logic as does the update() function to confirm the number of returned files in order to determine whether the delete_one() or delete_many() methods should be used to delete files.  The number of files which were deleted is then printed to the screen.
 
 ### Tests
 

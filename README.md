@@ -92,7 +92,11 @@ https://www.python.org/downloads/macos/
 
 ## Usage
 
+In order to use this project to interact with MongoDB databases, use the create(), read(), update() and delete() functions to create, delete, and update objects and to query the database. 
 
+### Code Examples
+
+The code snippet below shows the create() method.  As you can see, what is passed into the ‘data’ parameter is used to create animal objects. 
 
 
 

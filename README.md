@@ -168,6 +168,10 @@ And let's check to make sure that our deletions were successful:
 
 ![host-and-port](images/16-all-dragons-deleted.png)
 
-All dragons have been deleted so that we can focus on finding the best canine candidates for search-and-rescue training! 
+Success!  All dragons have been deleted so that we can focus on finding the best canine candidates for search-and-rescue training.
 
 ## Common Problems and Solutions
+
+### Authentication Errors
+
+

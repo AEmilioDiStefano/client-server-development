@@ -15,19 +15,19 @@ canine candidates for search-and-rescue training.
 
 # Getting Started 
 
-- Import your database file into MongoDB (if it has not already 
+**1)** Import your database file into MongoDB (if it has not already 
 been imported). 
 
-- Add the CRUD.py file to your directory of choice.
+**2)** Add the CRUD.py file to your directory of choice.
 
-- Open the MongoDB shell (mongosh) by entering the mongosh command
+**3)** Open the MongoDB shell (mongosh) by entering the mongosh command
 into your terminal as depicted below:
 
 ```bash
 mongosh
 ```
 
-- Make sure that your connection variables (labeled toward the top 
+**4)** Make sure that your connection variables (labeled toward the top 
 of the CRUD.py document) are correct including your username (USER), 
 password (PASS), host address (HOST), port number (PORT), database 
 (DB), and collection (COL).
@@ -41,7 +41,7 @@ password (PASS), host address (HOST), port number (PORT), database
      If this information does not match what is in your CRUD.py file,
    you will get an error.
 
-- Create a new document or notebook and import AnimalShelter as shown 
+**5)** Create a new document or notebook and import AnimalShelter as shown 
 below:
 
 ```python

@@ -130,7 +130,15 @@ Now we'll add some more dragons to our database in order to properly showcase ou
 
 ![host-and-port](images/8-create-dragons.png)
 
+**In order to use our read() function**, let's query our database for all of our dragons with the following code: 
 
+![host-and-port](images/9-read-dragons.png)
+
+Now let's adjust our query so that only dragons of the fire drake breed show up on our results: 
+
+![host-and-port](images/10-read-fire-drakes.png)
+
+**In order to use our update() function**, let's make some changes to the files in our database:
 
 
 

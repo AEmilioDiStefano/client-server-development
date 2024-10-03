@@ -38,7 +38,7 @@ password (PASS), host address (HOST), port number (PORT), database
    this information will appear after you have opened the mongosh shell,
    as depicted below: 
 
-     ![host-and-port](images/2-host-and-port.png)
+![host-and-port](images/2-host-and-port.png)
 
      If this information does not match what is in your CRUD.py file,
    you will get an error.

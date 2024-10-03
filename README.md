@@ -37,7 +37,7 @@ mongosh
 
 Make sure that your connection variables (labeled toward the top of the CRUD.py document) are correct including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
 
-If you are unsure of the appropriate hostname and port to use,
+If you are unsure of the appropriate host and port to use,
 this information will appear after you have opened the mongosh shell,
 as depicted below: 
 
@@ -192,7 +192,7 @@ If your user's roles do not include the correct permission(‘readWrite’) and 
 
 **Always make sure that your connection variables are assigned the correct values** including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
 
-If you are unsure of the appropriate hostname and port to use, open mongosh in your terminal and look for the “Connect to:” section toward the top of the output.  The hostname and port number for this example are shown in the image below. 
+If you are unsure of the appropriate host and port to use, open mongosh in your terminal and look for the “Connect to:” section toward the top of the output.  The host and port number for this example are shown in the image below. 
 
 ![host-and-port](images/2-host-and-port.png)
 
@@ -200,4 +200,8 @@ The values circled in red above should be assigned as the values of the variable
 
 ![host-and-port](images/19-connection-variables.png)
 
+Your host and port will almost certainly be different than those in the example, so be sure to add the ppropriate host and port as the values of your HOST and PORT variables.  
+
 ## Roadmap
+
+

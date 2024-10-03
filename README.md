@@ -124,6 +124,8 @@ The code in the delete() function uses the same logic as does the update() funct
 
 In order to use our create() function, let's add an animal to our database with the following code:
 
+![host-and-port](images/7-create-dragon.png)
+
 
 
 

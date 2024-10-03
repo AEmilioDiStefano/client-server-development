@@ -70,27 +70,27 @@ Install the latest versions of **Python** and **MongoDB**.
 
 Instructions can be found at the following links:
 
-### Python on Linux:
+### Install Python on Linux:
 
 https://www.geeksforgeeks.org/how-to-install-python-on-linux/ 
 
-### Python on Windows: 
+### Install Python on Windows: 
 
 https://www.python.org/downloads/
 
-### Python on Mac: 
+### Install Python on Mac: 
 
 https://www.python.org/downloads/macos/ 
 
-### MongoDB on Linux: 
+### Install MongoDB on Linux: 
 
 https://www.mongodb.com/docs/manual/administration/install-on-linux/
 
-### MongoBD on Windows
+### Install MongoBD on Windows
 
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
 
-### MongoDB on Mac:
+### Install MongoDB on Mac:
 
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 

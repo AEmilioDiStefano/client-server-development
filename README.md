@@ -98,6 +98,8 @@ In order to use this project to interact with MongoDB databases, use the create(
 
 The code snippet below shows the create() method.  As you can see, what is passed into the ‘data’ parameter is used to create animal objects. 
 
+![host-and-port](images/3-create-function.png)
+
 
 
 

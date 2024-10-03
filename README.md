@@ -112,7 +112,7 @@ The code snippet below shows the update() function:
 
 ![host-and-port](images/5-update-function.png)
 
-The code in the update() function 
+The code in the update() function determines how many results were returned, and uses either the 
 
 
 

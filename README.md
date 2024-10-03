@@ -200,7 +200,7 @@ The values circled in red above should be assigned as the values of the variable
 
 ![host-and-port](images/19-connection-variables.png)
 
-Your host and port will almost certainly be different than those in the example, so be sure to add the ppropriate host and port as the values of your HOST and PORT variables.  
+Your host and port will almost certainly be different than those in the example, so be sure to add the appropriate host and port as the values of your HOST and PORT variables.  
 
 ## Roadmap
 

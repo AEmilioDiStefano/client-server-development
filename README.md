@@ -1,6 +1,6 @@
 # K9Recruit
 
-K9Recruit is here to facilitate the process of identifying the best
+K9Recruit facilitates the process of identifying the best
 canine candidates for search-and-rescue training.  This powerful 
 software package facilitates the CRUD (create, read, update, delete)
 functionality built-in to MongoDB through simple queries which allow 

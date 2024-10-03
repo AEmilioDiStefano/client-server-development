@@ -112,8 +112,13 @@ The code snippet below shows the update() function:
 
 ![host-and-port](images/5-update-function.png)
 
-The code in the update() function determines how many results were returned, and uses either update_one() or update_many() as appropriate for the situation.  
+The code in the update() function determines how many results were returned, and uses either update_one() or update_many() as appropriate for the situation.  The number of files which were modified is then printed to the screen.
 
+The code snippet below shows the delete() function:
+
+![host-and-port](images/6-delete-function.png)
+
+The delete function
 
 
 

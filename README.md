@@ -15,7 +15,7 @@ canine candidates for search-and-rescue training.
 
 # Getting Started 
 
-**1)** Import your database file into MongoDB (if it has not already 
+<span style="color: red;">**1)**</span> Import your database file into MongoDB (if it has not already 
 been imported). 
 
 **2)** Add the CRUD.py file to your directory of choice.

@@ -206,4 +206,5 @@ Your host and port will almost certainly be different than those in the example,
 
 We are currently working on a front-end to which this middleware can be connected between the front-end and the MongoDB database.  We are also working on adding functions to change connection variables, add and remove users, and edit user priveleges within the application rather than having to edit the CRUD.py file or go through the MongoDB shell.  Follow us on social media and visit our GitHub to see if any new versions or functions have been added to the project.
 
-Contact: Emilio DiStefano 
+**Contact:**
+Emilio DiStefano 

@@ -106,11 +106,13 @@ The code snippet below shows the create() method.  What is passed into the ‘da
 
 ![host-and-port](images/4-read-function.png)
 
-The code in the read() function calls MongoDB's find() method to find each animal object which meets the criteria specified in the query, then outputs each animl object within the database. 
+The code in the read() function calls MongoDB's find() method to find each animal object which meets the criteria specified in the query, then outputs each animl object within the database.  Since the find() method returns a pointer rather than a list of objects, the read() function turns the elements into items with in a list to facilitate data navigation.
 
 The code snippet below shows the update() function: 
 
+![host-and-port](images/5-update-function.png)
 
+The code in the update() function 
 
 
 

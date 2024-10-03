@@ -27,8 +27,7 @@ into your terminal as depicted below:
 mongosh
 ```
 
-## 4) 
-Make sure that your connection variables (labeled toward the top 
+4) Make sure that your connection variables (labeled toward the top 
 of the CRUD.py document) are correct including your username (USER), 
 password (PASS), host address (HOST), port number (PORT), database 
 (DB), and collection (COL).

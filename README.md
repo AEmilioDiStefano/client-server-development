@@ -34,14 +34,14 @@ of the CRUD.py document) are correct including your username (USER),
 password (PASS), host address (HOST), port number (PORT), database 
 (DB), and collection (COL).
 
-     If you are unsure of the appropriate hostname and port to use,
-   this information will appear after you have opened the mongosh shell,
-   as depicted below: 
+If you are unsure of the appropriate hostname and port to use,
+this information will appear after you have opened the mongosh shell,
+as depicted below: 
 
 ![host-and-port](images/2-host-and-port.png)
 
-     If this information does not match what is in your CRUD.py file,
-   you will get an error.
+If this information does not match what is in your CRUD.py file, 
+you will get an error.
 
 
 **5)** Create a new document or notebook and import AnimalShelter as shown 

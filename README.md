@@ -41,3 +41,9 @@ password (PASS), host address (HOST), port number (PORT), database
      If this information does not match what is in your CRUD.py file,
    you will get an error.
 
+5) Create a new document or notebook and import AnimalShelter as shown 
+below:
+
+```python
+from CRUD import AnimalShelter
+```

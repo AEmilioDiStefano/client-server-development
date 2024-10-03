@@ -96,16 +96,19 @@ In order to use this project to interact with MongoDB databases, use the create(
 
 ### Code Examples
 
-The code snippet below shows the create() method.  As you can see, what is passed into the ‘data’ parameter is used to create animal objects. 
+The code snippet below shows the create() method.  As you can see, what is passed into the ‘data’ parameter is used to create animal objects: 
 
 ![host-and-port](images/3-create-function.png)
 
-The code in this function validates input to make sure that only data of type dictionary (dict) is able to be entered successfully.  This mitigates the possibility of incorrectly formed dictionaries being written to the database, which could result in problems with CRUD operations to the corresponding files.  All of our functions implement input validation of this type.
+The code in the create() function validates input to make sure that only data of type dictionary (dict) is able to be entered successfully.  This mitigates the possibility of incorrectly formed dictionaries being written to the database, which could result in problems with CRUD operations to the corresponding files.  All of our functions implement input validation of this type.
 
-The code snippet below shows the create() method.  What is passed into the ‘data’ parameter is used to find animal objects within the database. 
+The code snippet below shows the create() method.  What is passed into the ‘data’ parameter is used to find animal objects within the database: 
 
 ![host-and-port](images/4-read-function.png)
 
+The code in the read() function calls MongoDB's find() method to find each animal object which meets the criteria specified in the query, then outputs each animl object within the database. 
+
+The code snippet below shows the update() function: 
 
 
 

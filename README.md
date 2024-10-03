@@ -100,6 +100,11 @@ The code snippet below shows the create() method.  As you can see, what is passe
 
 ![host-and-port](images/3-create-function.png)
 
+The code in this function validates input to make sure that only data of type dictionary (dict) is able to be entered successfully.  This mitigates the possibility of incorrectly formed dictionaries being written to the database, which could result in problems with CRUD operations to the corresponding files.  All of our functions implement input validation of this type.
+
+
+
+
 
 
 

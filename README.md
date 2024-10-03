@@ -140,6 +140,8 @@ Now let's adjust our query so that only dragons of the fire drake breed show up 
 
 **In order to use our update() function**, let's make some changes to the files in our database:
 
+Let's change the breed of our dragon by the name of Gostir to "Cold Drake" rather than "Fire Drake":
+
 
 
 

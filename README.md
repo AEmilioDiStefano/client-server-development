@@ -70,6 +70,18 @@ Install the latest versions of **Python** and **MongoDB**.
 
 Instructions can be found at the following links:
 
+### Install MongoDB on Linux: 
+
+https://www.mongodb.com/docs/manual/administration/install-on-linux/
+
+### Install MongoBD on Windows
+
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
+
+### Install MongoDB on Mac:
+
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
 ### Install Python on Linux:
 
 https://www.geeksforgeeks.org/how-to-install-python-on-linux/ 
@@ -82,17 +94,6 @@ https://www.python.org/downloads/
 
 https://www.python.org/downloads/macos/ 
 
-### Install MongoDB on Linux: 
-
-https://www.mongodb.com/docs/manual/administration/install-on-linux/
-
-### Install MongoBD on Windows
-
-https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
-
-### Install MongoDB on Mac:
-
-https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 
 # Usage
 

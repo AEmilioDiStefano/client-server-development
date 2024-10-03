@@ -120,7 +120,7 @@ The code snippet below shows the delete() function:
 
 The code in the delete() function uses the same logic as does the update() function to confirm the number of returned files in otder to determine whether the delete_one() or delete_many() methods should be used to delete files.  The number of files which were deleted is then printed to the screen.
 
-###Tests
+### Tests
 
 In order to use our create() function, let's add a dragon to our database with the following code:
 

@@ -15,20 +15,21 @@ canine candidates for search-and-rescue training.
 
 # Getting Started 
 
-### **1)** 
-Import your database file into MongoDB (if it has not already 
-been imported).  
+### **1)** Import your database file 
+
+Import your data file into MongoDB (if it has not already been imported).  
 
 
 
-### **2)** 
+### **2)** Add the CRUD.py file 
+
 Add the CRUD.py file to your directory of choice.  
 
 
 
-### **3)** 
-Open the MongoDB shell (mongosh) by entering the mongosh command
-into your terminal as depicted below:
+### **3)** Open the MongoDB shell
+
+Open mongosh by entering the mongosh command into your terminal as depicted below:
 
 ```bash
 mongosh
@@ -36,11 +37,7 @@ mongosh
 
 
 
-### **4)** 
-Make sure that your connection variables (labeled toward the top 
-of the CRUD.py document) are correct including your username (USER), 
-password (PASS), host address (HOST), port number (PORT), database 
-(DB), and collection (COL).
+### **4)** Make sure that your connection variables (labeled toward the top of the CRUD.py document) are correct including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
 
 If you are unsure of the appropriate hostname and port to use,
 this information will appear after you have opened the mongosh shell,

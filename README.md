@@ -126,7 +126,11 @@ In order to use our create() function, let's add a dragon to our database with t
 
 ![host-and-port](images/7-create-dragon.png)
 
-Now we'll add some more dragons in order to properly showcase our read(), update(), and delete() functions: 
+Now we'll add some more dragons to our database in order to properly showcase our read(), update(), and delete() functions: 
+
+![host-and-port](images/8-create-dragons.png)
+
+
 
 
 

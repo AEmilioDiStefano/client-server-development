@@ -27,4 +27,4 @@ of the CRUD.py document) are correct including your username (USER),
 password (PASS), host address (HOST), port number (PORT), database 
 (DB), and collection (COL).
 
-![mongosh-command](images/1-mongosh-command.png)
+![mongosh-command](/images/1-mongosh-command.png)

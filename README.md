@@ -140,9 +140,16 @@ Now let's adjust our query so that only dragons of the fire drake breed show up 
 
 **In order to use our update() function**, let's make some changes to the files in our database:
 
-Let's change the breed of our dragon by the name of Gostir to "Cold Drake" rather than "Fire Drake":
+Let's change the breed of our dragon Smaug from "Fire Drake" to "Cold Drake" using both the "animal_type" and "name" specifications in case there is another animal in our database named Smaug:
 
+![host-and-port](images/11-update-smaug.png)
 
+And let's use our read() function to confirm the changes: 
 
+![host-and-port](images/12-read-smaug.png)
+
+Success!  Smaug has been changed from a Fire Drake to a Cold Drake (may Tolkien forgive us).
+
+**In order to use our delete() function**, let's delete one of our drasgons from our database with the following code:
 
 

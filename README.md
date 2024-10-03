@@ -112,13 +112,19 @@ The code snippet below shows the update() function:
 
 ![host-and-port](images/5-update-function.png)
 
-The code in the update() function determines how many results were returned, and uses either update_one() or update_many() as appropriate for the situation.  The number of files which were modified is then printed to the screen.
+The code in the update() function determines how many files were returned, and uses either update_one() or update_many() as appropriate for the situation.  The number of files which were modified is then printed to the screen.
 
 The code snippet below shows the delete() function:
 
 ![host-and-port](images/6-delete-function.png)
 
-The delete function
+The code in the delete() function uses the same logic as does the update() function to confirm the number of returned files in otder to determine whether the delete_one() or delete_many() methods should be used to delete files.  The number of files which were deleted is then printed to the screen.
+
+###Tests
+
+In order to use our create() function, let's add an animal to our database with the following code:
+
+
 
 
 

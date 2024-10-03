@@ -174,4 +174,30 @@ Success!  All dragons have been deleted so that we can focus on finding the best
 
 ### Authentication Errors
 
+Always make sure that your user has the appropriate privileges to avoid authentication errors.
 
+Enter your mongosh shell and confirm that your user has both readWrite privilege in the database which you will be using by entering the following command as depicted below: 
+
+![host-and-port](images/17-get-user.png)
+
+You should see output similar to the following:
+
+![host-and-port](images/18-get-user-output.png)
+
+In our example, the username is ‘aacuser’ and ‘AAC’ is the name of our database (db) of choice. 
+
+If your user's roles do not include the correct permission(‘readWrite’) and database name, change the user’s permissions and authorization or create a new user with the appropriate permissions and authorization for use in the database in which you would like to perform CRUD operations with this library.
+
+### ServerSelectionTimeoutError
+
+**Always make sure that your connection variables are assigned the correct values** including your username (USER), password (PASS), host address (HOST), port number (PORT), database (DB), and collection (COL).
+
+If you are unsure of the appropriate hostname and port to use, open mongosh in your terminal and look for the “Connect to:” section toward the top of the output.  The hostname and port number for this example are shown in the image below. 
+
+![host-and-port](images/2-host-and-port.png)
+
+The values circled in red above should be assigned as the values of the variables circled in red as depicted below:
+
+![host-and-port](images/19-connection-variables.png)
+
+## Roadmap

@@ -176,7 +176,7 @@ Success!  All dragons have been deleted so that we can focus on finding the best
 
 Always make sure that your user has the appropriate privileges to avoid authentication errors.
 
-Enter your mongosh shell and confirm that your user has both readWrite privilege in the database which you will be using by entering the following command as depicted below: 
+Enter your mongosh shell and confirm that your user has readWrite privilege in the database which you will be using by entering the following command as depicted below: 
 
 ![host-and-port](images/17-get-user.png)
 

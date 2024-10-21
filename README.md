@@ -1,13 +1,13 @@
 # Client Server Development Journal
 
-##How do you write programs that are maintainable, readable, and adaptable?
+## How do you write programs that are maintainable, readable, and adaptable?
 
 
 
-##How do you approach a problem as a computer scientist?
+## How do you approach a problem as a computer scientist?
 
 
 
-##hat do computer scientists do, and why does it matter?
+## What do computer scientists do, and why does it matter?
 
 

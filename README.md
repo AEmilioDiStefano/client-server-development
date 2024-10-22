@@ -20,6 +20,6 @@ The invaluable information and training which I recieved in this course will cer
 
 How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-
+Computer scientists play an incredibly important role in the development and maintenance of the modern world at large.  Our work enables individuals and organizations across 
 
 

@@ -18,8 +18,7 @@ The invaluable information and training which I recieved in this course will cer
 
 ## What do computer scientists do, and why does it matter?
 
-How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists play an incredibly important role in the development and maintenance of the modern world at large.  Our work enables individuals and organizations across a wide range of industries to enhance their workflows for peak performance and efficiency, empowering individuals to achieve their goals and enabling organiztions to effectively compete against each other while consequentially evolving humanity itself onward into the future.  
 
-Computer scientists play an incredibly important role in the development and maintenance of the modern world at large.  Our work enables individuals and organizations across 
-
+The program produced for Grazioso Salvare enables the company to quickly and efficiently find potentially viable canine candidates for search-and-rescue training.  The K9Recruit program also allows them to easily access important data and information, such as the geolocation of specific animals and the frequency of individual breeds among the potential pool of canine candidates.  Such a tool undoubtedly enhances the workflow of the Grazioso Salvare staff, therefore saving the company time and money in achieving their goal of selecting the best possible canine candidates for search-and-rescue training based on breed, age, sex, and potentiallly other characteristics as well.
 
